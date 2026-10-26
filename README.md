@@ -20,5 +20,5 @@
 Откройте терминал и клонируйте репозиторий WRITE в нужную вам папку:
 
 ```bash
-git clone [https://github.com/ВАШ_НИК/WRITE.git](https://github.com/ВАШ_НИК/WRITE.git)
+git clone https://github.com/demenkovmaks42-cloud/IDE-Write.git
 cd WRITE
